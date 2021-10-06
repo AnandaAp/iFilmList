@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "969869970892",
+    "project_id": "ifilm-70f89",
+    "storage_bucket": "ifilm-70f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969869970892:android:180994c72b2eec9596a169",
+        "android_client_info": {
+          "package_name": "com.anlian.ifilm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969869970892-abrgtr0plhm9gjhsvcrcapvcc29adv08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQNoeKlQJvMfq3IIPLcWElXdBYZx71EBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969869970892-abrgtr0plhm9gjhsvcrcapvcc29adv08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969869970892:android:927ffba0bc7bd57a96a169",
+        "android_client_info": {
+          "package_name": "com.anlian.ifilmlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969869970892-abrgtr0plhm9gjhsvcrcapvcc29adv08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQNoeKlQJvMfq3IIPLcWElXdBYZx71EBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969869970892-abrgtr0plhm9gjhsvcrcapvcc29adv08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
